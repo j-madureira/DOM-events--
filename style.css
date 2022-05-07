@@ -1,0 +1,64 @@
+#centro{
+    height: 500px;
+    width: 900px;
+    background-color: dodgerblue;
+    border-radius: 10px;
+    margin: auto;
+    position: relative;
+}
+#titulo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#cards{
+    height: 350px;
+    width: 770px;
+    position: absolute;
+    bottom: 0;
+    
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#card1{
+    display: inline-block;
+    height: 270px;
+    width: 190px;
+    background-color:  #262626;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#card2{
+    display: inline-block;
+    margin-left: 50px;
+    height: 270px;
+    width: 190px;
+    background-color:  #262626;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#card3{
+    display: inline-block;
+    margin-left: 50px;
+    height: 270px;
+    width: 190px;
+    background-color:  #262626;
+    border-radius: 10px;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
